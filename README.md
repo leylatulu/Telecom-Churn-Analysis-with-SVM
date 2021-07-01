@@ -4,3 +4,10 @@ This project includes binary classification. For the analysis, the [Telco Custom
   * The data set consists of **7043 rows** and **21 columns**. 
   * **Support Vector Machines (SVM)** algorithm was used. 
   * Since the data set used was unbalanced, the data set was balanced using the SMOTE algorithm. 
+
+
+## Authors
+* **[Leyla Tülü](https://github.com/leylatulu)**
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
