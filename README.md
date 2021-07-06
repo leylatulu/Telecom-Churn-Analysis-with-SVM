@@ -6,6 +6,18 @@ This project includes binary classification. For the analysis, the [Telco Custom
   * Since the data set used was unbalanced, the data set was balanced using the SMOTE algorithm. 
 
 
+## Libraries Used
+
+    numpy 
+    pandas 
+    scikit-learn 
+    matplotlib
+    seaborn
+    scipy
+    missingno
+    imblearn
+    collections
+
 ## Authors
 * **[Leyla Tülü](https://github.com/leylatulu)**
 
