@@ -1,4 +1,4 @@
-# Telecom-Churn-Analysis-with-SVM
+<h1 align="center">Telecom-Customer-Churn-Analysis</h1> 
 
 ## Data Set Story
 This project includes binary classification. For the analysis, the [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn) dataset published by IBM, which is open source on Kaggle, was used. 
