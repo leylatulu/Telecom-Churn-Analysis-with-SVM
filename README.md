@@ -4,7 +4,9 @@
 This project includes binary classification. For the analysis, the [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn) dataset published by IBM, which is open source on Kaggle, was used. 
   * The data set consists of **7043 rows** and **21 columns**. 
 
-## Description of Features
+<details>
+<summary><h2 align="left">Description of Features</h2></summary>
+
 |**FEATURE**|**DESCRIPTION**|
 |---|---|
 |customerID|customer id|
@@ -28,14 +30,3 @@ This project includes binary classification. For the analysis, the [Telco Custom
 |TotalCharges|the total amount that the client paid for the services for the entire time|
 |Churn|whether there was a churn (Yes or No)|
 
-## Libraries Used
-
-    numpy 
-    pandas 
-    scikit-learn 
-
-## Authors
-* **[Leyla Tülü](https://github.com/leylatulu)**
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
